@@ -6,7 +6,7 @@ Yayoi.vba : VBA source (exported from .xslm)
 
 [Usage]
 
-Put suitable Shiwake data onto Excel sheet and call excel2yayoi Macro.
+Put suitable Shiwake data onto Excel sheet and call output2yayoi Macro.
 
 Then "yayoi_import.txt" file will be generated.
 
